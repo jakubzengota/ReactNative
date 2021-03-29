@@ -1,8 +1,39 @@
 # aplikacje-mobline-21684
 
-/
-npm install react-native-elements
+## Potrzebne instalacje:
 
-npm install metro-react-native-babel-preset
+### npm install react-native-elements
 
-npm install -g react-native-cli
+### npm install metro-react-native-babel-preset
+
+### npm install -g react-native-cli
+
+## Włączanie aplikacji:
+
+### expo start -> "w" - włącznie aplikacji w przeglądarce
+
+# ![](images/7.PNG)
+
+## Wygląd aplikacji:
+
+# ![](images/1.PNG)
+
+## Dodawanie:
+
+# ![](images/2.PNG)
+
+## Odejmowanie:
+
+# ![](images/3.PNG)
+
+## Mnożenie:
+
+# ![](images/4.PNG)
+
+## Dzielenie:
+
+# ![](images/5.PNG)
+
+## Działanie z nawiasem:
+
+# ![](images/6.PNG)
