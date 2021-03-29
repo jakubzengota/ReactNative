@@ -1,4 +1,6 @@
-# aplikacje-mobline-21684
+# Lab1 - Kalkulator
+
+## Do wykonania Kalkulatora - React Native -> EXPO
 
 ## Potrzebne instalacje:
 
