@@ -14,4 +14,12 @@
 
 ### expo start -> "w" - włącznie aplikacji w przeglądarce
 
+## Flexbox
+
+## dokumentacją React Native na temat Flexboxa
+
+## Platform API dla React Native
+
+## Międzyplatformowymi komponentami dla React Native
+
 # ![](images/7.PNG)
