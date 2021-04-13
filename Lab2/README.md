@@ -2,6 +2,8 @@
 
 ## Do wykonania Lab2 - React Native -> EXPO
 
+## Utworzyłem 3 ekrany : Spread operator, rest parameters oraz hook useState. W każdym ekranie jest opcja do przejscia do pozostałych ekranów. Przycisk do cofnięcia w navigation do ekranu "home".
+
 ## Potrzebne instalacje:
 
 ### npm install @react-navigation/native
