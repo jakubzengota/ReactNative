@@ -2,16 +2,56 @@
 
 ## Do wykonania Lab2 - React Native -> EXPO
 
-## Potrzebne instalacje:cd
+## Potrzebne instalacje:
 
-npm install @react-navigation/native
+### npm install @react-navigation/native
 
-## Flexbox
+### npm install --save babel-runtime --save
 
-## dokumentacją React Native na temat Flexboxa
+### npm install react-navigation
 
-## Platform API dla React Native
+### npm install @react-navigation/stack
 
-## Międzyplatformowymi komponentami dla React Native
+### npm install react-native-gesture-handler
+
+## Wygląd aplikacji + kod
+
+## ![](images/1.PNG)
+
+## ![](images/5.PNG)
+
+## ![](images/6.PNG)
+
+### styles.js
+
+## ![](images/8.PNG)
+
+## Hook - use state
+
+# ![](images/2.PNG)
 
 # ![](images/7.PNG)
+
+### styles.js
+
+# ![](images/9.PNG)
+
+## Rest Parameters
+
+# ![](images/3.PNG)
+
+# ![](images/10.PNG)
+
+### styles.js
+
+# ![](images/11.PNG)
+
+## Spread operator
+
+# ![](images/4.PNG)
+
+# ![](images/13.PNG)
+
+### styles.js
+
+# ![](images/12.PNG)
