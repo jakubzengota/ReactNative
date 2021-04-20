@@ -38,15 +38,27 @@
 
 ### Sortowanie liczb randomowo
 
+### ![](images/10.PNG)
+
+### ![](images/11.PNG)
+
 ### ![](images/8.PNG)
 
 ## Lazy Loading
 
+### ![](images/9.PNG)
+
 ## Załadowanie pseudolosowych znaków metodoą lazy loading
+
+## Funkcja dodająca znaki do tablicy
+
+### ![](images/13.PNG)
 
 ### ![](images/4.PNG)
 
 ## Step progress
+
+### ![](images/12.PNG)
 
 ### ![](images/5.PNG)
 
