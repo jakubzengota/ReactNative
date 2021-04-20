@@ -30,6 +30,10 @@
 
 ## Sortowanie i filtrowanie - wypisanie 100 liczb mniejszych od tysiąca
 
+### ![](images/10.PNG)
+
+### ![](images/11.PNG)
+
 ### ![](images/3.PNG)
 
 ### Sotowowanie liczb od najmniejszego:
@@ -37,10 +41,6 @@
 ### ![](images/7.PNG)
 
 ### Sortowanie liczb randomowo
-
-### ![](images/10.PNG)
-
-### ![](images/11.PNG)
 
 ### ![](images/8.PNG)
 
