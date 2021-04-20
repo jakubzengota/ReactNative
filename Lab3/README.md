@@ -4,6 +4,20 @@
 
 ### ![](images/1.PNG)
 
-## Utworzyłem 3 ekrany : Spread operator, rest parameters oraz hook useState. W każdym ekranie jest opcja do przejscia do pozostałych ekranów. Przycisk do cofnięcia w navigation do ekranu "home"
+## Utworzyłem aplikacje z wyborem 3 ekranów. Do wyboru:
+
+- Sortowanie i filtrowanie
+- Lazy loading
+- Step Progress
 
 ## Potrzebne instalacje:
+
+### npm install @react-navigation/native
+
+### npm install @react-navigation/stack
+
+### npm i react-native-screens
+
+### npm i react-native-tstyles
+
+### npm install react-native-gesture-handler
