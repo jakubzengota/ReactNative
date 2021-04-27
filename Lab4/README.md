@@ -14,7 +14,7 @@
 
 ## Dodatkowe instalacje
 
-npm i react-native-datepicker
+### npm i react-native-datepicker
 
 ## Strona startowa:
 
@@ -28,6 +28,10 @@ npm i react-native-datepicker
 
 ### ![](images/3.PNG)
 
+## TextInput.js
+
+### ![](images/12.PNG)
+
 ### Select i Picker
 
 ## Dla komedii
@@ -38,6 +42,16 @@ npm i react-native-datepicker
 
 ### ![](images/5.PNG)
 
+## Select.js
+
+### ![](images/13.PNG)
+
+## SelectPicker.js
+
+### ![](images/14.PNG)
+
+### ![](images/15.PNG)
+
 ### Modal
 
 ### ![](images/6.PNG)
@@ -45,6 +59,10 @@ npm i react-native-datepicker
 ## Po kliknięciu w suwak wybiera pseudolosową liczbę:
 
 ### ![](images/7.PNG)
+
+## Modal.js
+
+### ![](images/16.PNG)
 
 ## Wystąpił problem z importem datepickera, dlatego nie działają mi 2 ostatnie ekranty poprawnie. Spróbuje użyć innego datepickera -> @react-native-comunity/datetimepicker
 
