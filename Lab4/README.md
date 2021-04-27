@@ -1,4 +1,4 @@
-# Lab3 - Renderowanie listy danych + obsługa progresu
+# Lab4 - obsługa danych wprowadzanych przez użytkownika + modale
 
 ## Do wykonania Lab3 renderowanie listy danych + obsługa progresu:
 
