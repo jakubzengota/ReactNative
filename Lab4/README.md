@@ -1,67 +1,59 @@
 # Lab4 - obsługa danych wprowadzanych przez użytkownika + modale
 
-## Do wykonania Lab3 renderowanie listy danych + obsługa progresu:
+## Do wykonania Lab4: :
 
 ### ![](images/1.PNG)
 
-## Utworzyłem aplikacje z wyborem 3 ekranów. Do wyboru:
+## Utworzyłem aplikacje z wyborem 5 ekranów. Do wyboru:
 
-- Sortowanie i filtrowanie
-- Lazy loading
-- Step Progress
+- Text Input
+- Select i Picker
+- Modal
+- Date Picker
+- Toast Android
 
-### Mozliwość przełączania się pomiędzy ekranami z załozeniami w opisie zadania
+## Dodatkowe instalacje
 
-## Potrzebne instalacje:
-
-### npm install @react-navigation/native
-
-### npm install @react-navigation/stack
-
-### npm i react-native-screens
-
-### npm i react-native-tstyles
-
-### npm install react-native-gesture-handler
+npm i react-native-datepicker
 
 ## Strona startowa:
 
 ### ![](images/2.PNG)
 
-## Sortowanie i filtrowanie - wypisanie 100 liczb mniejszych od tysiąca
-
-### ![](images/10.PNG)
+## Home.js
 
 ### ![](images/11.PNG)
 
+## Text Input
+
 ### ![](images/3.PNG)
 
-### Sotowowanie liczb od najmniejszego:
+### Select i Picker
 
-### ![](images/7.PNG)
-
-### Sortowanie liczb randomowo
-
-### ![](images/8.PNG)
-
-## Lazy Loading
-
-### ![](images/9.PNG)
-
-## Załadowanie pseudolosowych znaków metodoą lazy loading
-
-## Funkcja dodająca znaki do tablicy
-
-### ![](images/13.PNG)
+## Dla komedii
 
 ### ![](images/4.PNG)
 
-## Step progress
-
-### ![](images/12.PNG)
+## Dla filmu akcji
 
 ### ![](images/5.PNG)
 
-## Po przejsiu do następnej fazy ładoawnia, możemy powrócić do poprzedniej. Kołka zaznaczają się ikoną "tick"
+### Modal
 
 ### ![](images/6.PNG)
+
+## Po kliknięciu w suwak wybiera pseudolosową liczbę:
+
+### ![](images/7.PNG)
+
+## Wystąpił problem z importem datepickera, dlatego nie działają mi 2 ostatnie ekranty poprawnie. Spróbuje użyć innego datepickera -> @react-native-comunity/datetimepicker
+
+### ![](images/10.PNG)
+
+## Date Picker
+
+### ![](images/8.PNG)
+
+## Toase Android
+
+### ![](images/9.PNG)
