@@ -4,9 +4,10 @@
 
 ### ![](images/1.PNG)
 
-## Utworzyłem aplikacje z wyborem 5 ekranów. Do wyboru:
+## Utworzyłem aplikacje z wyborem 4 ekranów. Do wyboru:
 
-- ScrollView
+- ScrollView 1
+- ScrollView 1
 - Touchable
 - Swipeable
 
@@ -38,7 +39,7 @@
 
 ### ![](images/7.PNG)
 
-## Touchable:
+## Touchable(po kliknięciu bużka zmieni się na smutną):
 
 ### ![](images/9.PNG)
 
@@ -49,6 +50,8 @@
 ### Touchable - kod:
 
 ### ![](images/11.PNG)
+
+### Swipeable - in progress..:
 
 ## Styles.css
 
