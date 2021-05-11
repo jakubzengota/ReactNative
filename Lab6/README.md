@@ -26,13 +26,25 @@ npm install react-native-screens
 
 ### ![](images/3.PNG)
 
+### Home - kod:
+
+### ![](images/15.PNG)
+
 ## Image - dwa obrazki. Jeden z urla, a drugi jako plik.
 
 ### ![](images/4.PNG)
 
+### Image - kod:
+
+### ![](images/14.PNG)
+
 ## NetInfo
 
 ### ![](images/2.PNG)
+
+### Net Info - kod:
+
+### ![](images/16.PNG)
 
 ## Slider - możemy przybliżać i oddalać obrazek
 
@@ -40,11 +52,19 @@ npm install react-native-screens
 
 ### ![](images/6.PNG)
 
+### Slider - kod:
+
+### ![](images/17.PNG)
+
 ## Lazy Icons
 
 ### ![](images/7.PNG)
 
 ### ![](images/8.PNG)
+
+### Lazy Icons - kod:
+
+### ![](images/18.PNG)
 
 ## Synchronizacja dancyh -
 
@@ -54,9 +74,21 @@ npm install react-native-screens
 
 ### ![](images/13.PNG)
 
+### Synchronizacja danych - kod:
+
+### ![](images/19.PNG)
+
+### ![](images/20.PNG)
+
 ## Async Storage
 
 ### ![](images/12.PNG)
+
+### Synchronizacja danych - kod:
+
+### ![](images/21.PNG)
+
+### ![](images/22.PNG)
 
 ## Styles.js
 
