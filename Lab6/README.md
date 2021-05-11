@@ -56,7 +56,7 @@ npm install react-native-screens
 
 ### ![](images/17.PNG)
 
-## Lazy Icons
+## Lazy Icons - powolne ładowanie ikon
 
 ### ![](images/7.PNG)
 
@@ -80,11 +80,11 @@ npm install react-native-screens
 
 ### ![](images/20.PNG)
 
-## Async Storage
+## Async Storage -
 
 ### ![](images/12.PNG)
 
-### Synchronizacja danych - kod:
+### Async Storage - kod:
 
 ### ![](images/21.PNG)
 
