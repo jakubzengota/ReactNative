@@ -1,4 +1,4 @@
-# Lab6 - obsługa gestów użytkownika
+# Lab6 - obsługa obrazów + tryb offline
 
 ## Do wykonania Lab6: :
 
