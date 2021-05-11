@@ -4,12 +4,14 @@
 
 ### ![](images/1.PNG)
 
-## Utworzyłem aplikacje z wyborem 4 ekranów. Do wyboru:
+## Utworzyłem aplikacje z wyborem 6 ekranów. Do wyboru:
 
-- ScrollView 1
-- ScrollView 1
-- Touchable
-- Swipeable
+- Image
+- Net Info
+- Slider
+- Lazy Icons
+- Synch
+- Async Storage
 
 ## Dodatkowe instalacje
 
@@ -31,3 +33,31 @@ npm install react-native-screens
 ## NetInfo
 
 ### ![](images/2.PNG)
+
+## Slider - możemy przybliżać i oddalać obrazek
+
+### ![](images/5.PNG)
+
+### ![](images/6.PNG)
+
+## Lazy Icons
+
+### ![](images/7.PNG)
+
+### ![](images/8.PNG)
+
+## Synchronizacja dancyh -
+
+### ![](images/9.PNG)
+
+### ![](images/10.PNG)
+
+### ![](images/13.PNG)
+
+## Async Storage
+
+### ![](images/12.PNG)
+
+## Styles.js
+
+### ![](images/11.PNG)
