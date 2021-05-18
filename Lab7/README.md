@@ -42,6 +42,10 @@ npm install react-navigation-stack
 
 ### ![](images/12.PNG)
 
+## Widok z bd
+
+### ![](images/13.PNG)
+
 ## styles.js
 
 ### ![](images/10.PNG)
