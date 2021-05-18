@@ -18,6 +18,32 @@ npm install react-navigation-stack
 
 ## App.js - kod:
 
+### ![](images/3.PNG)
+
 ### Home - kod:
 
-### ![](images/.PNG)
+### ![](images/4.PNG)
+
+## TODO APP:
+
+### ![](images/5.PNG)
+
+## SQLitedb.js kod:
+
+### ![](images/6.PNG)
+
+### ![](images/7.PNG)
+
+### ![](images/8.PNG)
+
+## Dodawanie zadań - po dodaniu automatycznie zadanie ląduje w tabeli "TODO". Po ponowym kliknięciu w czarwony napis zadania przeniesie je nam do "DONE". Jeżeli chcemy usunąć na raz wszystkie zadania - umożliwia nam to przycisk "CLEAR ALL"
+
+### ![](images/9.PNG)
+
+### ![](images/12.PNG)
+
+## styles.js
+
+### ![](images/10.PNG)
+
+### ![](images/11.PNG)
