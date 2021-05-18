@@ -8,9 +8,11 @@
 
 ## Dodatkowe instalacje
 
-expo install expo-sqlite
-npm install @react-navigation/native
-npm install react-navigation-stack
+### expo install expo-sqlite
+
+### npm install @react-navigation/native
+
+### npm install react-navigation-stack
 
 ## Strona startowa:
 
